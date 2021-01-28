@@ -8,7 +8,10 @@ public class Main {
 		//Error: Unresolved compilation problem: 
 		//	notexisting cannot be resolved to a variable
 
-
+		//String break = 'Hello Everybody'
+		//		Unresolved compilation problems: 
+		//			Syntax error on tokens, delete these tokens
+		//			Invalid character constant
 	}
 
 }
