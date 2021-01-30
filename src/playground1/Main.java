@@ -24,7 +24,16 @@ public class Main {
 		//System.out.print(printertime);
 		//This time it worked!
 		
+		//String name = "Attempt here";
+		//System.out.print(name);
+		//It worked! though didn't seem to like it. 
 		
+		//Integer class = 5; 
+		//System.out.println(class); 
+		//Error: Unresolved compilation problems: 
+		//	Integer cannot be resolved to a variable
+		//	Syntax error on token "class", delete this token
+		//	Syntax error on token "class", delete this token
 				
 		
 	}
