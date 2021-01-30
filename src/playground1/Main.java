@@ -34,6 +34,16 @@ public class Main {
 		//	Integer cannot be resolved to a variable
 		//	Syntax error on token "class", delete this token
 		//	Syntax error on token "class", delete this token
+		
+		
+//		if (true) {
+//			float number = 1.7F;
+//		}
+//		
+//		System.out.print(number);
+//		 Unresolved compilation problem: 
+//				number cannot be resolved to a variable
+		//Didn't work. Out of scope
 				
 		
 	}
