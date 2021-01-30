@@ -12,6 +12,21 @@ public class Main {
 		//		Unresolved compilation problems: 
 		//			Syntax error on tokens, delete these tokens
 		//			Invalid character constant
+		
+		
+		
+		//String printertime = 'Bonsoir Folks';
+		//System.out.print(printertime);
+		//Error: Unresolved compilation problem: 
+		//	Invalid character constant
+		
+		//String printertime = "Bonsoir again!";
+		//System.out.print(printertime);
+		//This time it worked!
+		
+		
+				
+		
 	}
 
 }
